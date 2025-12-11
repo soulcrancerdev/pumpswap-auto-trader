@@ -542,8 +542,3 @@ Once the backend is running, interactive API documentation is available at:
 2. Make your changes
 3. Run tests and linters
 4. Submit a pull request
-
-## License
-
-[Add your license here]
-
