@@ -460,6 +460,7 @@ Create `backend/.env` file (or use environment variables):
 - `TOKEN_FETCH_INTERVAL_SECONDS`: Interval for token fetching (in seconds)
 
 ### Frontend
+<img width="1881" height="845" alt="image" src="https://github.com/user-attachments/assets/9c77494e-6b9e-423c-849b-1811550860bb" />
 
 Create `frontend/.env` file:
 
